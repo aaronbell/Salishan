@@ -106,7 +106,7 @@ Accented vowels indicate glottal stop
 
 ![references/lushootseed_variants.png](references/lushootseed_variants.png)
 
-From [references/indigenous-type.pdf](Juliet Shen's article on the design of her Lushootseed font)
+From [https://github.com/aaronbell/Salishan/blob/master/references/indigenous-type.pdf](Juliet Shen's article on the design of her Lushootseed font)
 
 ###### Note:
 When used, stress can be indicated on vowels using the acute and grave accents. However, no tribal website indicates use of these accented forms in their orthographies and, they can (likely) be safely ignored for practical orthography applications. 
