@@ -6,7 +6,7 @@ UBC reference (includes semi-unicode font) [https://fnel.arts.ubc.ca/resources/f
 `a æ aw ay ɔ č č̓ e ɛ ə əw əy g gʸ h i ɩ ǰ k k̓ kʷ k̓ʷ kʸ k̓ʸ l l̓ ɬ ƛ ƛ̓ m m̓ n n̓ o ɔy p p̓ q q̓ qʷ q̓ʷ s š t t̓ θ tᶿ t̓ᶿ u ʊ w w̓ χ χʷ xʷ y y̓ ʔ `
 
 ###### References:
-* [http://www.firstvoices.com/en/Sliammon/welcome]([http://www.firstvoices.com/en/Sliammon/welcome)
+* [http://www.firstvoices.com/en/Sliammon/welcome](http://www.firstvoices.com/en/Sliammon/welcome)
 * [http://www.firstvoices.com/en/Klahoose/welcome](http://www.firstvoices.com/en/Klahoose/welcome)
 
 
