@@ -202,7 +202,7 @@ Above are two different orthographies, Americanist and Practical.
 `a aa c c̕ č č’ h ḥ i ii k k̕ kʷ k̕ʷ ł ƛ ƛ̕ m m̓ n n̓ p p̓ q qʷ s š t t̕ u uu w w̓ x x̣ xʷ x̣ʷ y y̓ ʕ ʔ e ee oo `
 
 ###### References:
-* [http://www.firstvoices.com/en/cisaaath/welcome](http://www.firstvoices.com/en/cisaaath/welcome)
+* [https://www.firstvoices.com/explore/FV/sections/Data/c%CC%95i%C5%A1aa%CA%94at%E1%B8%A5/Nuu%C4%8Daan%CC%93u%C9%AB/c%CC%95i%C5%A1aa%CA%94at%E1%B8%A5](https://www.firstvoices.com/explore/FV/sections/Data/c%CC%95i%C5%A1aa%CA%94at%E1%B8%A5/Nuu%C4%8Daan%CC%93u%C9%AB/c%CC%95i%C5%A1aa%CA%94at%E1%B8%A5)
 * [https://toquahtlanguage.com](https://toquahtlanguage.com)
 
 #### Nuu-chah-nulth (Island Comox area)
