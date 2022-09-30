@@ -42,6 +42,7 @@ UBC reference (includes semi-unicode font) [https://fnel.arts.ubc.ca/resources/f
 
 Drawn samples of each letter. Note that the commaabove is tucked in tight to the ascending letters. To enable this kind of behavior, it would make sense to substitute commaabove by commaaboveright in order to position with the top_right anchor instead.
 
+* [https://www.musqueam.bc.ca/departments/community-services/language/](https://www.musqueam.bc.ca/departments/community-services/language/)
 * [http://tsawwassenfirstnation.com/event/hən̓q̓əmin̓əm̓-language-class-adults/](http://tsawwassenfirstnation.com/event/hən̓q̓əmin̓əm̓-language-class-adults/)
 * [http://musqueam.zenutech.com/language](http://musqueam.zenutech.com/language)
 * [https://www.kwikwetlem.com/pronunciation-guide.htm](https://www.kwikwetlem.com/pronunciation-guide.htm)
